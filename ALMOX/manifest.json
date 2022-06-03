@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Almox",
+    "description": "Extensão de testes para chrome",
+    "author": "Ulisses Gomes Ribeiro",
+    "browser_action": {
+   	 "default_title": "Almox",
+   	 "default_popup": "index.html"
+   	 //"default_icon": "icon.png"
+    }
+}
